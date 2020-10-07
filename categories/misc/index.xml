@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc on Paul&#39;s Personal Zibaldone</title>
+    <link>https://AytonReader.github.io/categories/misc/</link>
+    <description>Recent content in misc on Paul&#39;s Personal Zibaldone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>Running from 2020-09-30</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://AytonReader.github.io/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The beginning of something great</title>
+      <link>https://AytonReader.github.io/posts/001-prelude/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      
+      <guid>https://AytonReader.github.io/posts/001-prelude/</guid>
+      <description>Zibaldone  According to Wikipedia: A zibaldone is an Italian vernacular commonplace book. The word means &amp;ldquo;a heap of things&amp;rdquo; or &amp;ldquo;miscellany&amp;rdquo; in Italian.
+ This post marks the beginning of my zibaldone/portfolio website. I will be using this site as a place to post about my working experiences, interesting projects I&amp;rsquo;m working on, my hobbies, and any other things I find interesting that I want to share.</description>
+    </item>
+    
+  </channel>
+</rss>
