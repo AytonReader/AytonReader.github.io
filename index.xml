@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>Running from 2020-09-30</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://AytonReader.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fuzzy Logic for PLCs - Omron Engineering</title>
+      <link>https://AytonReader.github.io/posts/002-omron-fuzzy/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AytonReader.github.io/posts/002-omron-fuzzy/</guid>
+      <description>While at Omron I worked to develop a fuzzy logic framework for Omron PLCs using Structure Text language.
+ Context From June, I spent three months working with Omron Australia as an engineering intern. I used my short time with Omron as an opportunity to build my professional network, and further put my name out as a professional contractor. I was fortunate enough to spend the first two months in-office, and got to know some of the Omron Melbourne staff on a deeper level.</description>
+    </item>
+    
+    <item>
+      <title>Linux bootstrapping software - Omron Engineering</title>
+      <link>https://AytonReader.github.io/posts/003-omron-vbnet/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AytonReader.github.io/posts/003-omron-vbnet/</guid>
+      <description>With Omron, I worked to design an application which would allow the average person to set up a Linux machine with ease.
+ Context From June, I spent three months working with Omron Australia as an engineering intern. I used my short time with Omron as an opportunity to build my professional network, and further put my name out as a professional contractor. I was fortunate enough to spend the first two months in-office, and got to know some of the Omron Melbourne staff on a deeper level.</description>
+    </item>
     
     <item>
       <title>Surrealist Universes</title>
@@ -25,7 +45,7 @@ Overview I&amp;rsquo;ve recently found quite a love for surrealist art. There&am
     <item>
       <title>The beginning of something great</title>
       <link>https://AytonReader.github.io/posts/001-prelude/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://AytonReader.github.io/posts/001-prelude/</guid>
       <description>Zibaldone  According to Wikipedia: A zibaldone is an Italian vernacular commonplace book. The word means &amp;ldquo;a heap of things&amp;rdquo; or &amp;ldquo;miscellany&amp;rdquo; in Italian.
